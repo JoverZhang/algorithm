@@ -28,7 +28,7 @@
 //     return sum
 // };
 
-let numers = {
+let numbers = {
     'I': 1,
     'V': 5,
     'X': 10,
@@ -41,8 +41,8 @@ let numers = {
 var romanToInt = function (s) {
     let res = 0
     for (let i = 0; i < s.length; i++) {
-        let currNumber = numers[s[i]]
-        let nextNumber = numers[s[i + 1]]
+        let currNumber = numbers[s[i]]
+        let nextNumber = numbers[s[i + 1]]
         if (currNumber < nextNumber) {
             res = res + nextNumber - currNumber
             i++
