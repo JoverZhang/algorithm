@@ -4,6 +4,7 @@
 
 | Problem                                                                                                                                  | Tags                                           |
 |------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| [1. Two Sum](./leetcode/q1_two_sum.js)                                                                                                   | **Array**, **Hash Table**                      |
 | [9. Palindrome Number](./leetcode/q9_palindrome_number.js)                                                                               | **Math**                                       |
 | [11. Container With Most Water](./leetcode/q11_container_with_most_water.js)                                                             | **Array**, **Two Pointers**, **Greedy**        |
 | [13. Roman to Integer](./leetcode/q13_roman_to_integer.js)                                                                               | **Math**, **String**                           |
