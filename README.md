@@ -13,7 +13,8 @@
 | [27. Remove Element](./leetcode/q27_remove_element.js)                                                                                           | **Array**, **Two Pointers**                    |
 | [34. Find First and Last Position of Element in Sorted Array](./leetcode/q34_find_first_and_last_position_of_element_in_sorted_array.js)         | **Array**, **Binary Search**                   |
 | [35. Search Insert Position](./leetcode/q35_search_insert_position.js)                                                                           | **Array**, **Binary Search**                   |
-| [125. Valid Palindrome](./leetcode/q125_valid_palindrome.js)                                                                                     | **String**, **Two Pointers**                          |
+| [83. Remove Duplicates from Sorted List](./leetcode/q83_remove_duplicates_from_sorted_list.js)                                                   | **Linked List**                                |
+| [125. Valid Palindrome](./leetcode/q125_valid_palindrome.js)                                                                                     | **String**, **Two Pointers**                   |
 | [150. Evaluate Reverse Polish Notation](./leetcode/q150_evaluate_reverse_polish_notation.js)                                                     | **Array**, **Math**, **Stack**                 |
 | [167. Two Sum II - Input Array Is Sorted](./leetcode/q167_two_sum-II_input_array_is_sorted.js)                                                   | **Array**, **Two Pointers**, **Binary Search** |
 | [633. Sum of Square Numbers](./leetcode/q633_sum_of_square_numbers.js)                                                                           | **Math**, **Two Pointers**, **Binary Search**  |
