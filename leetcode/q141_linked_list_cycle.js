@@ -11,7 +11,7 @@
  * @return {boolean}
  */
 
-//Two Pointers, if there is a  cycle in linked list, two pointers will meet somewhere
+//1. Two Pointers, if there is a  cycle in linked list, two pointers will meet somewhere
 
 // let hasCycle = function(head) {
 //     if (!head) return false
@@ -24,7 +24,7 @@
 //     return false
 // };
 
-//    Hash Table
+//2. Hash Table
 
 let existed = new Set()
 let hasCycle = function(head) {
