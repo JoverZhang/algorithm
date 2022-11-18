@@ -9,6 +9,7 @@
 | [11. Container With Most Water](./leetcode/q11_container_with_most_water.js)                                                                     | **Array**, **Two Pointers**, **Greedy**           |
 | [13. Roman to Integer](./leetcode/q13_roman_to_integer.js)                                                                                       | **Math**, **String**                              |
 | [20. Valid Parentheses](./leetcode/q20_valid_parentheses.js)                                                                                     | **String**, **Stack**                             |
+| [21. Merge Two Sorted Lists](./leetcode/q21_merge_two_sorted_lists.js)                                                                           | **Linked List**, **Recursion**                    |
 | [26. Remove Duplicates from Sorted Array](./leetcode/q26_remove_duplicates_from_sorted_array.js)                                                 | **Array**, **Two Pointers**                       |
 | [27. Remove Element](./leetcode/q27_remove_element.js)                                                                                           | **Array**, **Two Pointers**                       |
 | [34. Find First and Last Position of Element in Sorted Array](./leetcode/q34_find_first_and_last_position_of_element_in_sorted_array.js)         | **Array**, **Binary Search**                      |
