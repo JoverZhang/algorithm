@@ -8,8 +8,10 @@
 | [9. Palindrome Number](./leetcode/q9_palindrome_number.js)                                                                                       | **Math**                                          |
 | [11. Container With Most Water](./leetcode/q11_container_with_most_water.js)                                                                     | **Array**, **Two Pointers**, **Greedy**           |
 | [13. Roman to Integer](./leetcode/q13_roman_to_integer.js)                                                                                       | **Math**, **String**                              |
+| [19. Remove Nth Node From End of List](./leetcode/q19_remove_nth_node_from_end_of_list.js)                                                       | **Linked List**, **Two Pointers**                 |
 | [20. Valid Parentheses](./leetcode/q20_valid_parentheses.js)                                                                                     | **String**, **Stack**                             |
 | [21. Merge Two Sorted Lists](./leetcode/q21_merge_two_sorted_lists.js)                                                                           | **Linked List**, **Recursion**                    |
+| [24. Swap Nodes in Pairs](./leetcode/q24_swap_nodes_in_pairs.js)                                                                                 | **Linked List**, **Recursion**                    |
 | [26. Remove Duplicates from Sorted Array](./leetcode/q26_remove_duplicates_from_sorted_array.js)                                                 | **Array**, **Two Pointers**                       |
 | [27. Remove Element](./leetcode/q27_remove_element.js)                                                                                           | **Array**, **Two Pointers**                       |
 | [34. Find First and Last Position of Element in Sorted Array](./leetcode/q34_find_first_and_last_position_of_element_in_sorted_array.js)         | **Array**, **Binary Search**                      |
@@ -19,8 +21,10 @@
 | [141. Linked List Cycle](./leetcode/q141_linked_list_cycle.js)                                                                                   | **Linked List**, **Two Pointers**, **Hash Table** |
 | [142. Linked List Cycle II](./leetcode/q142_linked_list_cycle_II.js)                                                                             | **Linked List**, **Two Pointers**, **Hash Table** |
 | [150. Evaluate Reverse Polish Notation](./leetcode/q150_evaluate_reverse_polish_notation.js)                                                     | **Array**, **Math**, **Stack**                    |
+| [160. Intersection of Two Linked Lists](./leetcode/q160_intersection_of_two_linked_lists.js)                                                     | **Linked List**, **Hash Table**, **Two Pointers** |
 | [167. Two Sum II - Input Array Is Sorted](./leetcode/q167_two_sum-II_input_array_is_sorted.js)                                                   | **Array**, **Two Pointers**, **Binary Search**    |
 | [203. Remove Linked List Elements](./leetcode/q203_remove_linked_list_elements.js)                                                               | **Linked List**, **Recursion**                    |
+| [206. Reverse Linked List](./leetcode/q206_reverse_linked_list.js)                                                                               | **Linked List**, **Recursion**                    |
 | [237. Delete Node in a Linked List](./leetcode/q237_delete_node_in_a_linked_list.js)                                                             | **Linked List**                                   |
 | [633. Sum of Square Numbers](./leetcode/q633_sum_of_square_numbers.js)                                                                           | **Math**, **Two Pointers**, **Binary Search**     |
 | [704. Binary Search](./leetcode/q704_binary_search.js)                                                                                           | **Math**, **Binary Search**                       |
